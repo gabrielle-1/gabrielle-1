@@ -1,4 +1,4 @@
-### Olá 👋 me chamo Gabrielle Rodrigues e sou estudante de Ciência da Computação!
+### Olá 👋 me chamo Gabrielle Rodrigues e sou estudante de Ciência da Computação.
 
 <div align="center">
   <a href="https://github.com/gabrielle-1">
