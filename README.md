@@ -1,10 +1,5 @@
 ### Olá 👋 me chamo Gabrielle Rodrigues e sou estudante de Ciência da Computação.
 
-<div align="center">
-  <a href="https://github.com/gabrielle-1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielle-1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
